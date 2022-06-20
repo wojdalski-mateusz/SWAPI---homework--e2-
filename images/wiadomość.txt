@@ -1,0 +1,24 @@
+Mateusz Gabriel
+:turtle:  11:39 AM
+@here Hej, wrzucam info odnośnie dalszego procesu naszej nauki. 
+Ruszamy z Reactem 20ego czerwca i wtedy dostaniecie materiały, 
+a 21czerwca będzie live z wprowadzeniem w świat Reacta :wink: 
+Natomiast sugestia od Bartka jest też taka aby ten projekt, 
+który został zadany jako praca domowa został ukończony przynajmniej do momentu tabelki, 
+paginacji i zeby zrobic chociaz jednego Searcha(input do wyszukiwania danych). 
+Nie trzeba robic gry, klas rowniez i tych ukrytych featerow ale przez ten czas 
+do 20ego czerwca poświećcie na dokończenie tej pracy chociaż do momentu o którym napisałem. 
+Generalnie to zrozumienie metod na documencie, takich jak: 
+createElement, appendChild, getElementByIdquerySelector, 
+addEventListener czy dataset(o ktorych bartek mowil na ostatnich live'ach) jest wazne. 
+Nie bedziemy ich uzywac w React ale na podobnym poziomie beda pojecia do nauczenia po wejsciu w Reacta. 
+:wink: Wiec to też potraktujcie jako wyzwanie, zeby zrozumiec te metody. I projekty wysylajcie swoim mentorom. 
+Rozmawialiśmy o tym z Bartkiem i chcielibysmy zebyście podjeli próbe zrozumienia tych metod do czasu wypuszczenia kolejnych materiałów. 
+Podam Wam również dwa przykłady jeden z kursu, a drugi mój. Dostalismy feedback od jednej osoby, 
+ktora juz jest na biezaco ze wszystkim ze robila jedno zadanie przez 50h z zegarkiem w ręku. 
+To pokazuje ze pewną ilość czasu trzeba przesiedziec, zeby zrozumiec pewne pojecia i to jest zupełnie normalne 
+:slightly_smiling_face: A drugi mój przypadek. Jak wchodziłem w Reacta to miałem wylepione ściany w pokoju z prostymi pojeciami, 
+rysowałem na kartkach i jeden film pamietam ktory trwal 2h, przerabialem okolo 15h. 
+Ale ten czas nie idzie na marne :wink: Więc pociśnijcie jeszcze z tym zadaniem Bartka, 
+wytrwale próbujcie, czytajcie, uczcie się, gadajcie ze sobą, piszcie do nas, a Reacta zaczniemy równo wszyscy 20ego czerwca 
+:slightly_smiling_face:

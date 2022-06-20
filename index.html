@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Star Wars</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <audio controls autoplay class="audio">
+            <source src="audio/Main Theme from Star Wars (videoo.info).mp3" type="audio/mp3">
+            Your browser does not support the audio element.</audio>
+        <div class="main-section">
+            <div class="header">
+                <img class="header-img" src="/images/SW_image.png" alt="Star Wars - header">
+            </div>
+            <div class="nav-buttons" id="nav-buttons-js"></div>
+            <div id="results">
+                <table class="table" id="table-results">
+                    <thead class="thead"></thead>
+                    <tbody class="tbody"></tbody>
+                </table>
+                <table class="table-details">
+                    <thead class="thead-details"></thead>
+                    <tbody class="tbody-details"></tbody>
+                </table>
+
+            </div>
+            <div class="footer">
+                <div class="paginationButtons">
+                    <button class="button" id="prevPageBtn-js">Previous</button>
+                    <button class="button" id="nextPageBtn-js">Next</button>
+                </div>
+                <div class="searchEngine">
+                    <input id="searchInput" class="button">
+                    <button type="button" class="button" id="searchBtn" onclick="searchElement()">Search</button>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <script src="script.js"></script>
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+
+</body>
+
+</html>
